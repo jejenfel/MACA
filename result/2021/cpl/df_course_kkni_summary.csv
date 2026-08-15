@@ -1,0 +1,55 @@
+﻿course_name,kkni_id,course_bloom_levels_detected,max_final_alignment_score_with_kkni,course_overall_alignment_label
+Pengantar Teknologi Informasi,1,"['C1', 'C5', 'C4', 'C2', 'C3']",0.79585385,Aligned
+Sistem Informasi Manajemen,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.76463926,Aligned
+Rekayasa Ilmu,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.7528622,Aligned
+Metodologi Penelitian dan Ilmiah,1,"['C2', 'C4', 'C1', 'C3']",0.74192476,Aligned
+Konsep Sistem Informasi,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.7316413,Aligned
+Tata Kelola Sistem Informasi,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.7316413,Aligned
+Rekayasa Perangkat Lunak,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.7255073,Aligned
+Interpersonal Skill,1,"['C6', 'C1', 'C3']",0.71585155,Aligned
+Wide Area Network (WAN),1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.71360445,Aligned
+IT Project Management,1,['C3'],0.7093574,Aligned
+Data Warehouse dan Mining,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.7069169,Aligned
+E Business dan Pemrograman Berbasis Web,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.70185983,Aligned
+Pemrograman Berorientasi Objek,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.69001967,Aligned
+Sistem Operasi,1,"['C2', 'C4', 'C1', 'C3']",0.6893847,Aligned
+Pemodelan dan Simulasi Jaringan,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.6889114,Aligned
+Pengantar Intelejensi Artifisial,1,"['C4', 'C3']",0.6850792,Aligned
+LAN and Wireless,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6840411,Aligned
+Magang,1,"['C6', 'C3']",0.68343115,Aligned
+Etika Profesi dan Hak Kekayaan Intelektual,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6793486,Aligned
+Sistem Digital,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6778991,Aligned
+Leadership and Management for IT Engineer,1,"['C6', 'C5', 'C4', 'C2', 'C3']",0.6743361,Aligned
+Multimedia Systems,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6739989,Aligned
+Sistem Basis Data Lanjut,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.67299724,Aligned
+Mobil Computing,1,"['C2', 'C6', 'C3']",0.6682377,Aligned
+Routing Protocols and Concepts,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.6665634,Aligned
+Sistem Terdistribusi,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6622021,Aligned
+Interaksi Manusia dan Komputer,1,"['C5', 'C4', 'C6', 'C3']",0.6620591,Aligned
+Data Communication,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6619222,Aligned
+Computer Vision,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.65483594,Aligned
+Komunikasi Nirkabel,1,"['C2', 'C3']",0.65478325,Aligned
+Advanced Broadband Networking,1,"['C2', 'C4', 'C1', 'C3']",0.65474236,Aligned
+Pengolahan Citra,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6540532,Aligned
+Algoritma & Pemrograman,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.6442651,Aligned
+Sistem Basis Data,3,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6434632,Aligned
+English AP2,1,"['C2', 'C6', 'C1', 'C3']",0.63298434,Aligned
+Manajemen Jaringan,1,"['C1', 'C5', 'C4', 'C2', 'C3']",0.63183117,Aligned
+Matematika Diskrit,1,"['C6', 'C1', 'C5', 'C4', 'C2', 'C3']",0.6236054,Aligned
+Ethical Hacking,1,"['C2', 'C3', 'C1']",0.62119776,Aligned
+Pemrograman Visual,1,"['C2', 'C6', 'C1', 'C3']",0.60238755,Aligned
+Pendidikan Pancasila dan Kewarganegaraan,1,"['C5', 'C2', 'C6', 'C3']",0.59292096,Not Aligned
+Statistika,1,"['C6', 'C1', 'C4', 'C2', 'C3']",0.5870764,Not Aligned
+Aljabar Linear,1,"['C2', 'C4', 'C1', 'C3']",0.5868435,Not Aligned
+Struktur Data,3,"['C6', 'C3']",0.5832753,Not Aligned
+Sirkuit Elektronik,1,"['C6', 'C5', 'C4', 'C2', 'C3']",0.5791907,Not Aligned
+Arsitektur dan Organisasi Komputer,1,"['C2', 'C6', 'C1', 'C3']",0.57395047,Not Aligned
+Bahasa Indonesia,1,['C3'],0.56868064,Not Aligned
+Informatika Sosial,3,"['C2', 'C4', 'C1']",0.56564426,Not Aligned
+Agama,1,"['C6', 'C1', 'C5', 'C4', 'C3']",0.5510123,Not Aligned
+Proses Sinyal Dijital,1,"['C2', 'C4', 'C1', 'C3']",0.54451966,Not Aligned
+Kewirausahaan Berbasis Teknologi,2,[],0.34753275,Not Aligned
+Kalkulus 1,2,[],0.29822317,Not Aligned
+IT Security,1,[],0.2639867,Not Aligned
+Kalkulus 2,2,[],0.25466597,Not Aligned
+English for Academic Purposes 1,4,[],0.008611651,Not Aligned

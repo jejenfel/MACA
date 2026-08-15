@@ -1,0 +1,6 @@
+﻿Sub Aspek,Average Similarity,Kondisi
+KKNI ↔ CPL,0.46209999918937683,Perlu Perbaikan
+KKNI ↔ Mata Kuliah,0.6539999842643738,Cukup
+CPL ↔ Kompetensi Industri,0.6747999787330627,Cukup
+Mata Kuliah ↔ Kompetensi Industri,0.6269999742507935,Cukup
+CPL ↔ Mata Kuliah,0.4162,Perlu Perbaikan
