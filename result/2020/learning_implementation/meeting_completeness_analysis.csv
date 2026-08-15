@@ -1,1 +1,49 @@
-
+academic_year,course_name,meetings_conducted,expected_meetings,missing_meetings,completeness_percentage,completion_category
+20241,Pengantar Teknologi Informasi,12,14,[],85.71428571428571,Incomplete
+20241,Interpersonal Skill,13,14,[],92.85714285714286,Incomplete
+20241,Advanced Ethical Hacking,14,14,[],100.0,Complete
+20241,Algoritma dan Pemrograman,14,14,[],100.0,Complete
+20241,Aljabar Linear,14,14,[],100.0,Complete
+20241,Analisis Perancangan Sistem Informasi,14,14,[],100.0,Complete
+20241,Bahasa Inggris 1,14,14,[],100.0,Complete
+20241,Computer Vision,14,14,[],100.0,Complete
+20241,E-Business dan Pemrograman Berbasis Web,14,14,[],100.0,Complete
+20241,Interaksi Manusia dan Komputer,14,14,[],100.0,Complete
+20241,Kalkulus I,14,14,[],100.0,Complete
+20241,Keamanan Teknologi Informasi,14,14,[],100.0,Complete
+20241,Kewirausahaan Berbasis Teknologi,14,14,[],100.0,Complete
+20241,Komunikasi Data,14,14,[],100.0,Complete
+20241,Leadership and Management for IT Engineer,14,14,[],100.0,Complete
+20241,Metodologi Penelitian dan Penulisan Ilmiah,14,14,[],100.0,Complete
+20241,Mobile Computing,14,14,[],100.0,Complete
+20241,Pemodelan dan Simulasi Jaringan,14,14,[],100.0,Complete
+20241,Pengantar Intelejensi Artifisial,14,14,[],100.0,Complete
+20241,Rekayasa Ilmu,14,14,[],100.0,Complete
+20241,Routing Protocols and Concepts,14,14,[],100.0,Complete
+20241,Sirkuit Elektronik,14,14,[],100.0,Complete
+20241,Sistem Basis Data,14,14,[],100.0,Complete
+20241,Sistem Dijital,14,14,[],100.0,Complete
+20241,Sistem Multimedia,14,14,[],100.0,Complete
+20241,Sistem Operasi,14,14,[],100.0,Complete
+20241,Statistik,14,14,[],100.0,Complete
+20242,Etika Profesi dan Hak Kekayaan Intelektual,13,14,[],92.85714285714286,Incomplete
+20242,Konsep Sistem Informasi,13,14,[],92.85714285714286,Incomplete
+20242,Struktur Data,13,14,[],92.85714285714286,Incomplete
+20242,Arsitektur dan Organisasi Komputer,14,14,[],100.0,Complete
+20242,Bahasa Inggris 2,14,14,[],100.0,Complete
+20242,Ethical Hacking,14,14,[],100.0,Complete
+20242,IT Project Management,14,14,[],100.0,Complete
+20242,Informatika Sosial,14,14,[],100.0,Complete
+20242,Interpersonal Skill,14,14,[],100.0,Complete
+20242,Kalkulus II,14,14,[],100.0,Complete
+20242,Komunikasi Nirkabel,14,14,[],100.0,Complete
+20242,LAN and Wireless,14,14,[],100.0,Complete
+20242,Manajemen Jaringan,14,14,[],100.0,Complete
+20242,Matematika Diskrit,14,14,[],100.0,Complete
+20242,Pemrograman Berorientasi Objek,14,14,[],100.0,Complete
+20242,Pemrograman Visual,14,14,[],100.0,Complete
+20242,Proses Sinyal Dijital,14,14,[],100.0,Complete
+20242,Rekayasa perangkat Lunak,14,14,[],100.0,Complete
+20242,Sistem Basis Data Lanjut,14,14,[],100.0,Complete
+20242,Sistem Terdistribusi,14,14,[],100.0,Complete
+20242,Wide Area Network (WAN),14,14,[],100.0,Complete
