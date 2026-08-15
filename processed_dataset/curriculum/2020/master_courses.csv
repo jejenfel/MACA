@@ -1,0 +1,59 @@
+kode_mk,nama_mata_kuliah,kategori
+FTK101,Algoritma & Pemrograman,Wajib Prodi
+FTK103,Pemrograman Visual,Wajib Prodi
+FTK111,Kalkulus 1,Wajib Prodi
+FTK121,Aljabar Linear,Wajib Prodi
+FTK151,Metodologi Penelitian dan Ilmiah,Wajib Prodi
+FTK161,Statistika,Wajib Prodi
+FTK203,Sistem Basis Data,Wajib Prodi
+FTK205,LAN and Wireless,Wajib Prodi
+FTK206,Pemrograman Berorientasi Objek,Wajib Prodi
+FTK211,Kalkulus 2,Wajib Prodi
+FTK221,Kewirausahaan Berbasis Teknologi,Wajib Prodi
+FTK301,E Business dan Pemrograman Berbasis Web,Wajib Prodi
+FTK303,Rekayasa Perangkat Lunak,Wajib Prodi
+FTK402,Magang,Wajib Prodi
+FTK403,Etika Profesi dan Hak Kekayaan Intelektual,Wajib Prodi
+TIF101,Sirkuit Elektronik,Wajib Prodi
+TIF103,Matematika Diskrit,Wajib Prodi
+TIF106,Konsep Sistem Informasi,Wajib Prodi
+TIF107,Pengantar Teknologi Informasi,Wajib Prodi
+TIF109,Struktur Data,Wajib Prodi
+TIF203,Sistem Digital,Wajib Prodi
+TIF204,Sistem Basis Data Lanjut,Wajib Prodi
+TIF206,Sistem Operasi,Wajib Prodi
+TIF207,Data Communication,Wajib Prodi
+TIF208,Proses Sinyal Dijital,Wajib Prodi
+TIF209,Arsitektur dan Organisasi Komputer,Wajib Prodi
+TIF210,Informatika Sosial,Wajib Prodi
+TIF211,Leadership and Management for IT Engineer,Wajib Prodi
+TIF301,Routing Protocols and Concepts,Wajib Prodi
+TIF302,Pengantar Intelejensi Artifisial,Wajib Prodi
+TIF305,Pemodelan dan Simulasi Jaringan,Wajib Prodi
+TIF307,Komunikasi Nirkabel,Wajib Prodi
+TIF309,Sistem Terdistribusi,Wajib Prodi
+TIF310,Interpersonal Skill,Wajib Prodi
+TIF311,Multimedia Systems,Wajib Prodi
+TIF312,IT Project Management,Wajib Prodi
+TIF313,Wide Area Network (WAN),Wajib Prodi
+TIF351,Sistem Informasi Manajemen,Peminatan
+TIF352,Tata Kelola Sistem Informasi,Peminatan
+TIF353,Mobile System Programming,Peminatan
+TIF354,Data Warehouse dan Mining,Peminatan
+TIF356,Pengolahan Citra,Peminatan
+TIF357,Ethical Hacking,Peminatan
+TIF358,Manajemen Jaringan,Peminatan
+TIF401,IT Security,Wajib Prodi
+TIF402,Interaksi Manusia dan Komputer,Wajib Prodi
+TIF403,Tugas Akhir,Tugas Akhir
+TIF451,Analisis Perancangan Sistem Informasi,Peminatan
+TIF452,Rekayasa Ilmu,Peminatan
+TIF453,Advanced Ethical Hacking,Peminatan
+TIF454,Mobil Computing,Peminatan
+TIF455,Advanced Broadband Networking,Peminatan
+TIF456,Computer Vision,Peminatan
+UNI101,Bahasa Indonesia,Wajib Universitas
+UNI102,Agama,Wajib Universitas
+UNI104,English for Academic Purposes 1,Wajib Universitas
+UNI106,Pendidikan Pancasila dan Kewarganegaraan,Wajib Universitas
+UNI204,English AP2,Wajib Universitas

@@ -1,0 +1,26 @@
+kode_mk,nama_mata_kuliah,prerequisite_code,prerequisite_name
+UNI204,Bahasa Inggris 2,UNI104,Bahasa Inggris 1
+FTK211,Kalkulus 2,FTK111,Kalkulus 1
+FTK103,Pemrograman Visual,TIF101,Sirkuit Elektronik
+TIF206,Sistem Operasi,TIF109,Struktur Data
+TIF203,Sistem Dijital,TIF101,Sirkuit Elektronik
+FTK203,Sistem Basis Data,TIF109,Struktur Data
+TIF204,Sistem Basis Data Lanjut,FTK203,Sistem Basis Data
+FTK205,LAN and Wireless,TIF207,Komunikasi Data
+TIF209,Arsitektur dan Organisasi Komputer,TIF203,Sistem Dijital
+FTK206,Pemrograman Berorientasi Objek,FTK101,Algoritma dan Pemrograman
+TIF301,Routing Protocols and Concepts,FTK205,LAN and Wireless
+TIF302,Pengantar Intelejensi Artifisial,FTK101,Algoritma dan Pemrograman
+FTK301,E-Business dan Pemrograman Berbasis Web,FTK101,Algoritma dan Pemrograman
+TIF311,Sistem Multimedia,TIF208,Proses Sinyal Digital
+TIF305,Pemodelan dan Simulasi Jaringan,FTK205,LAN and Wireless
+TIF313,Wide Area Network (WAN),TIF301,Routing Protocols and Concepts
+TIF307,Komunikasi Nirkabel,TIF207,Data Communication
+TIF309,Sistem Terdistribusi,FTK203,Sistem Basis Data
+TIF401,IT Security,FTK205,LAN and Wireless
+TIF402,Interaksi Manusia dan Komputer,TIF206,Sistem Operasi
+TIF403,Tugas Akhir,TIF301,Metodologi Penelitian dan Penulisan Ilmiah Research Methods
+TIF356,Pengolahan Citra,TIF208,Proses Sinyal Dijital
+TIF356,Pengolahan Citra,TIF311,Sistem Multimedia
+TIF352,Tata Kelola Sistem Informasi,TIF106,Konsep Sistem Informasi
+TIF456,Computer Vision,TIF356,Pengolahan Citra
