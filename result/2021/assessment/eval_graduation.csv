@@ -1,0 +1,5 @@
+﻿NIM,NAMA,IPK,Status_IPK,Total_Wajib,Wajib_Ditempuh,Wajib_Belum_Ditempuh,Missing_Wajib_Courses,Status_Course_Completion,Jumlah_D,D_Wajib_Prodi,Status_D,Jumlah_MK_Nilai_DiBawah_C,Missing_Minimum_Grade_Courses,Status_Minimum_Grade,Jumlah_Pelanggaran_Prasyarat,Missing_Prerequisite_Courses,Status_Prasyarat,Status_Kelulusan
+Mahasiswa 1,Mahasiswa 1,3.72,Memenuhi,45,45,0,,Lengkap,0,0,Memenuhi,0,,Memenuhi,1,Computer Vision → Pengolahan Citra,Tidak Memenuhi,Tidak Memenuhi
+Mahasiswa 2,Mahasiswa 2,3.24,Memenuhi,45,45,0,,Lengkap,0,0,Memenuhi,0,,Memenuhi,1,Computer Vision → Pengolahan Citra,Tidak Memenuhi,Tidak Memenuhi
+Mahasiswa 3,Mahasiswa 3,3.82,Memenuhi,45,45,0,,Lengkap,0,0,Memenuhi,0,,Memenuhi,1,Computer Vision → Pengolahan Citra,Tidak Memenuhi,Tidak Memenuhi
+Mahasiswa 4,Mahasiswa 4,3.82,Memenuhi,45,45,0,,Lengkap,0,0,Memenuhi,0,,Memenuhi,1,Computer Vision → Pengolahan Citra,Tidak Memenuhi,Tidak Memenuhi

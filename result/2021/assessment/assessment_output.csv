@@ -1,1 +1,197 @@
-
+﻿NIM,NAMA,NAMA_MATAKULIAH,SKS,GRADE,NILAI_ANGKA,Tingkat_Ketercapaian,Status_Lulus,PERIODE,tahun,semester,tahun_akademik
+Mahasiswa 1,Mahasiswa 1,Agama,2,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Algoritma dan Pemrograman,4,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Aljabar Linier,3,B+,3.33,Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Arsitektur dan Organisasi Komputer,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Bahasa Indonesia,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 1,Mahasiswa 1,Bahasa Inggris 1,3,B,3.0,Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Bahasa Inggris 2,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,E-Business dan Pemrograman Berbasis Web,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Etika Profesi dan Hak Kekayaan Intelektual,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 1,Mahasiswa 1,Informatika Sosial,2,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Interaksi Manusia dan Komputer,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 1,Mahasiswa 1,Jaringan Area Luas,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 1,Mahasiswa 1,Kalkulus I,3,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Kalkulus II,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,Keamanan Teknologi Informasi,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Keterampilan Antarpribadi,2,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Kewirausahaan Berbasis Teknologi,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Kewirausahaan yang Efektif,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Komputasi Seluler,2,B+,3.33,Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 1,Mahasiswa 1,Komunikasi Data,3,B,3.0,Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Komunikasi Nirkabel,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 1,Mahasiswa 1,Konsep Sistem Informasi,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,LAN dan Nirkabel,3,B+,3.33,Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Magang,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 1,Mahasiswa 1,Manajemen Proyek IT,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 1,Mahasiswa 1,Matematika Diskrit,3,B+,3.33,Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,Metodologi Penelitian dan Penulisan Ilmiah,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 1,Mahasiswa 1,Pemodelan dan Simulasi Jaringan,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Pemrograman Berorientasi Objek,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Pemrograman Visual,3,B-,2.67,Cukup,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,Pendidikan Pancasila dan Kewarganegaraan,3,A-,3.67,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Pengantar Intelejensi Artifisial,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Pengantar Teknologi Informasi,3,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Proses Sinyal Dijital,3,C+,2.33,Cukup,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Protokol dan Konsep Perutean,3,C+,2.33,Cukup,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Rekayasa perangkat Lunak,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 1,Mahasiswa 1,Sirkuit Elektronik,3,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 1,Mahasiswa 1,Sistem Basis Data,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Sistem Basis Data Lanjut,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 1,Mahasiswa 1,Sistem Dijital,4,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Sistem Multimedia,3,B+,3.33,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 1,Mahasiswa 1,Sistem Operasi,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Sistem Terdistribusi,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 1,Mahasiswa 1,Statistik,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 1,Mahasiswa 1,Statistika Deskriptif,2,B+,3.33,Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,Struktur Data,3,B-,2.67,Cukup,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 1,Mahasiswa 1,Tugas Akhir,6,A,4.0,Sangat Baik,Lulus,20242,2024,Genap,2024-2025
+Mahasiswa 1,Mahasiswa 1,Visi Komputer,2,A-,3.67,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Agama,2,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Algoritma dan Pemrograman,4,C,2.0,Cukup,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Aljabar Linier,3,B,3.0,Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Arsitektur dan Organisasi Komputer,3,A-,3.67,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Bahasa Indonesia,2,B,3.0,Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 2,Mahasiswa 2,Bahasa Inggris 1,3,C+,2.33,Cukup,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Bahasa Inggris 2,3,A-,3.67,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 2,Mahasiswa 2,E-Business dan Pemrograman Berbasis Web,3,B-,2.67,Cukup,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Etika Profesi dan Hak Kekayaan Intelektual,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Informatika Sosial,2,A-,3.67,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Interaksi Manusia dan Komputer,3,B,3.0,Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Jaringan Area Luas,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Kalkulus I,3,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Kalkulus II,3,C+,2.33,Cukup,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 2,Mahasiswa 2,Keamanan Teknologi Informasi,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 2,Mahasiswa 2,Keterampilan Antarpribadi,2,B+,3.33,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Kewirausahaan Berbasis Teknologi,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Kewirausahaan yang Efektif,3,A-,3.67,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Komunikasi Data,3,C,2.0,Cukup,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 2,Mahasiswa 2,Komunikasi Nirkabel,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Konsep Sistem Informasi,3,C,2.0,Cukup,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 2,Mahasiswa 2,LAN dan Nirkabel,3,B,3.0,Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Magang,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Manajemen Proyek IT,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Matematika Diskrit,3,B,3.0,Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 2,Mahasiswa 2,Metodologi Penelitian dan Penulisan Ilmiah,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Pemodelan dan Simulasi Jaringan,3,B+,3.33,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Pemrograman Berorientasi Objek,3,B+,3.33,Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Pemrograman Visual,3,A-,3.67,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Pendidikan Pancasila dan Kewarganegaraan,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Pengantar Intelejensi Artifisial,3,B+,3.33,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Pengantar Teknologi Informasi,3,B-,2.67,Cukup,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Proses Sinyal Dijital,3,B-,2.67,Cukup,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 2,Mahasiswa 2,Protokol dan Konsep Perutean,3,C+,2.33,Cukup,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Rekayasa Ilmu,2,C,2.0,Cukup,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 2,Mahasiswa 2,Rekayasa perangkat Lunak,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Sirkuit Elektronik,3,B+,3.33,Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 2,Mahasiswa 2,Sistem Basis Data,3,B,3.0,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Sistem Basis Data Lanjut,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Sistem Dijital,4,C,2.0,Cukup,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 2,Mahasiswa 2,Sistem Multimedia,3,C+,2.33,Cukup,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 2,Mahasiswa 2,Sistem Operasi,3,B+,3.33,Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 2,Mahasiswa 2,Sistem Terdistribusi,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 2,Mahasiswa 2,Statistik,3,B-,2.67,Cukup,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 2,Mahasiswa 2,Statistika Deskriptif,2,B,3.0,Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 2,Mahasiswa 2,Struktur Data,3,B,3.0,Baik,Lulus,20242,2024,Genap,2024-2025
+Mahasiswa 2,Mahasiswa 2,Tugas Akhir,6,A,4.0,Sangat Baik,Lulus,20242,2024,Genap,2024-2025
+Mahasiswa 2,Mahasiswa 2,Visi Komputer,2,B+,3.33,Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 3,Mahasiswa 3,Agama,2,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Algoritma dan Pemrograman,4,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Aljabar Linier,3,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Arsitektur dan Organisasi Komputer,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Bahasa Indonesia,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 3,Mahasiswa 3,Bahasa Inggris 1,3,B,3.0,Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Bahasa Inggris 2,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,E-Business dan Pemrograman Berbasis Web,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Etika Profesi dan Hak Kekayaan Intelektual,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 3,Mahasiswa 3,Informatika Sosial,2,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Interaksi Manusia dan Komputer,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 3,Mahasiswa 3,Jaringan Area Luas,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 3,Mahasiswa 3,Kalkulus I,3,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Kalkulus II,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,Keamanan Teknologi Informasi,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Keterampilan Antarpribadi,2,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Kewirausahaan Berbasis Teknologi,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Kewirausahaan yang Efektif,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Komputasi Seluler,2,B+,3.33,Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 3,Mahasiswa 3,Komunikasi Data,3,B,3.0,Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Komunikasi Nirkabel,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 3,Mahasiswa 3,Konsep Sistem Informasi,3,A-,3.67,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,LAN dan Nirkabel,3,B+,3.33,Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Magang,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 3,Mahasiswa 3,Manajemen Proyek IT,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 3,Mahasiswa 3,Matematika Diskrit,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,Metodologi Penelitian dan Penulisan Ilmiah,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 3,Mahasiswa 3,Pemodelan dan Simulasi Jaringan,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Pemrograman Berorientasi Objek,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Pemrograman Visual,3,A-,3.67,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,Pendidikan Pancasila dan Kewarganegaraan,3,B+,3.33,Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Pengantar Intelejensi Artifisial,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Pengantar Teknologi Informasi,3,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Proses Sinyal Dijital,3,A-,3.67,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Protokol dan Konsep Perutean,3,B+,3.33,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Rekayasa perangkat Lunak,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 3,Mahasiswa 3,Sirkuit Elektronik,3,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 3,Mahasiswa 3,Sistem Basis Data,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Sistem Basis Data Lanjut,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 3,Mahasiswa 3,Sistem Dijital,4,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Sistem Multimedia,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 3,Mahasiswa 3,Sistem Operasi,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Sistem Terdistribusi,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 3,Mahasiswa 3,Statistik,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 3,Mahasiswa 3,Statistika Deskriptif,2,B+,3.33,Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,Struktur Data,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 3,Mahasiswa 3,Tugas Akhir,6,A,4.0,Sangat Baik,Lulus,20242,2024,Genap,2024-2025
+Mahasiswa 3,Mahasiswa 3,Visi Komputer,2,A-,3.67,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 4,Mahasiswa 4,Agama,2,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Algoritma dan Pemrograman,4,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Aljabar Linier,3,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Arsitektur dan Organisasi Komputer,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Bahasa Indonesia,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 4,Mahasiswa 4,Bahasa Inggris 1,3,B,3.0,Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Bahasa Inggris 2,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,E-Business dan Pemrograman Berbasis Web,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Etika Profesi dan Hak Kekayaan Intelektual,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 4,Mahasiswa 4,Informatika Sosial,2,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Interaksi Manusia dan Komputer,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 4,Mahasiswa 4,Jaringan Area Luas,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 4,Mahasiswa 4,Kalkulus I,3,A-,3.67,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Kalkulus II,3,A-,3.67,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,Keamanan Teknologi Informasi,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Keterampilan Antarpribadi,2,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Kewirausahaan Berbasis Teknologi,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Kewirausahaan yang Efektif,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Komputasi Seluler,2,A-,3.67,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 4,Mahasiswa 4,Komunikasi Data,3,A-,3.67,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Komunikasi Nirkabel,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 4,Mahasiswa 4,Konsep Sistem Informasi,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,LAN dan Nirkabel,3,B+,3.33,Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Magang,3,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 4,Mahasiswa 4,Manajemen Proyek IT,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 4,Mahasiswa 4,Matematika Diskrit,3,A-,3.67,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,Metodologi Penelitian dan Penulisan Ilmiah,2,A,4.0,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
+Mahasiswa 4,Mahasiswa 4,Pemodelan dan Simulasi Jaringan,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Pemrograman Berorientasi Objek,3,A-,3.67,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Pemrograman Visual,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,Pendidikan Pancasila dan Kewarganegaraan,3,B+,3.33,Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Pengantar Intelejensi Artifisial,3,A,4.0,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Pengantar Teknologi Informasi,3,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Proses Sinyal Dijital,3,B-,2.67,Cukup,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Protokol dan Konsep Perutean,3,B+,3.33,Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Rekayasa perangkat Lunak,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 4,Mahasiswa 4,Sirkuit Elektronik,3,A,4.0,Sangat Baik,Lulus,20211,2021,Ganjil,2021-2022
+Mahasiswa 4,Mahasiswa 4,Sistem Basis Data,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Sistem Basis Data Lanjut,3,A,4.0,Sangat Baik,Lulus,20222,2022,Genap,2022-2023
+Mahasiswa 4,Mahasiswa 4,Sistem Dijital,4,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Sistem Multimedia,3,A-,3.67,Sangat Baik,Lulus,20231,2023,Ganjil,2023-2024
+Mahasiswa 4,Mahasiswa 4,Sistem Operasi,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Sistem Terdistribusi,3,A,4.0,Sangat Baik,Lulus,20232,2023,Genap,2023-2024
+Mahasiswa 4,Mahasiswa 4,Statistik,3,A,4.0,Sangat Baik,Lulus,20221,2022,Ganjil,2022-2023
+Mahasiswa 4,Mahasiswa 4,Statistika Deskriptif,2,B+,3.33,Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,Struktur Data,3,A,4.0,Sangat Baik,Lulus,20212,2021,Genap,2021-2022
+Mahasiswa 4,Mahasiswa 4,Tugas Akhir,6,A,4.0,Sangat Baik,Lulus,20242,2024,Genap,2024-2025
+Mahasiswa 4,Mahasiswa 4,Visi Komputer,2,A-,3.67,Sangat Baik,Lulus,20241,2024,Ganjil,2024-2025
