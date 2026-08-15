@@ -1,0 +1,8 @@
+﻿posisi_pekerjaan,top_aligned_jobs,highest_similarity,final_domain,alignment_status,profil_top_domains,is_profile_domain_consistent_multi
+Guru Informatika,No match,0.0,No match,Not Aligned,"['Cluster 1', 'Cluster 3', 'Cluster 4', 'Cluster 0', 'Cluster 2', 'Cluster 5']",Not Consistent
+IT Quality Assurance,PENJAMIN KUALITAS TI (IT QUALITY ASSURANCE),0.6833694699114155,Cluster 3,Aligned,"['Cluster 4', 'Cluster 1', 'Cluster 3', 'Cluster 0']",Cluster 3
+Junior UI/UX Designer,DUKUNGAN TEKNIK JUNIOR (JUNIOR TECHNICAL SUPPORT),0.529138653529548,Cluster 0,Not Aligned,"['Cluster 4', 'Cluster 1', 'Cluster 3', 'Cluster 0']",Cluster 0
+Project Manager,MANAJER PROYEK TIK  (ICT PROJECT MANAGER),0.4983996215990697,Cluster 1,Not Aligned,"['Cluster 4', 'Cluster 1', 'Cluster 3', 'Cluster 0']",Cluster 1
+SOC Analyst,ANALIS SOC TINGKAT 3 (L3 SOC ANALYST),0.6056923387175582,Cluster 1,Aligned,"['Cluster 1', 'Cluster 3', 'Cluster 4', 'Cluster 0', 'Cluster 2', 'Cluster 5']",Cluster 1
+Staff Administrasi Honorer,STAF PEMROGRAM (PROGRAMMER STAFF),0.34135989071780726,Cluster 0,Not Aligned,"['Cluster 1', 'Cluster 3', 'Cluster 4', 'Cluster 0', 'Cluster 2', 'Cluster 5']",Cluster 0
+pemilik,PEMILIK PRODUK (PRODUCT OWNER),0.39111812430971116,Cluster 4,Not Aligned,"['Cluster 4', 'Cluster 1', 'Cluster 3', 'Cluster 0']",Cluster 4
