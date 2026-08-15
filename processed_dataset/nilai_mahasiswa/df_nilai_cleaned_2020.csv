@@ -1,1 +1,360 @@
-
+NAMA,NIM,NAMA_MATAKULIAH,SKS,GRADE,PERIODE,source_sheet,tahun,semester,tahun_akademik,NILAI_ANGKA
+Mahasiswa 1,Mahasiswa 1,Agama,2,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Algoritma dan Pemrograman,4,C,20202,Mahasiswa 1,2020,Genap,2020-2021,2.0
+Mahasiswa 1,Mahasiswa 1,Arsitektur dan Organisasi Komputer,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Bahasa Indonesia,2,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Bahasa Inggris 1,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,E-Business dan Pemrograman Berbasis Web,3,C,20202,Mahasiswa 1,2020,Genap,2020-2021,2.0
+Mahasiswa 1,Mahasiswa 1,Etika Profesi dan Hak Kekayaan Intelektual,3,B+,20202,Mahasiswa 1,2020,Genap,2020-2021,3.33
+Mahasiswa 1,Mahasiswa 1,Gudang Data dan Penambangan Data,3,B+,20212,Mahasiswa 1,2021,Genap,2021-2022,3.33
+Mahasiswa 1,Mahasiswa 1,Interaksi Manusia dan Komputer,3,A,20202,Mahasiswa 1,2020,Genap,2020-2021,4.0
+Mahasiswa 1,Mahasiswa 1,Jaringan Area Luas,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Kalkulus I,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Kalkulus II,3,C,20202,Mahasiswa 1,2020,Genap,2020-2021,2.0
+Mahasiswa 1,Mahasiswa 1,Keamanan Teknologi Informasi,3,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Keterampilan Antarpribadi,2,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Kewirausahaan Berbasis Teknologi,3,A,20212,Mahasiswa 1,2021,Genap,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Kewirausahaan yang Efektif,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Komunikasi Data,3,B-,20202,Mahasiswa 1,2020,Genap,2020-2021,2.67
+Mahasiswa 1,Mahasiswa 1,Komunikasi Nirkabel,3,A,20202,Mahasiswa 1,2020,Genap,2020-2021,4.0
+Mahasiswa 1,Mahasiswa 1,LAN dan Nirkabel,3,B-,20202,Mahasiswa 1,2020,Genap,2020-2021,2.67
+Mahasiswa 1,Mahasiswa 1,Magang,3,B,20202,Mahasiswa 1,2020,Genap,2020-2021,3.0
+Mahasiswa 1,Mahasiswa 1,Manajemen Jaringan,3,A,20202,Mahasiswa 1,2020,Genap,2020-2021,4.0
+Mahasiswa 1,Mahasiswa 1,Manajemen Proyek IT,3,B,20202,Mahasiswa 1,2020,Genap,2020-2021,3.0
+Mahasiswa 1,Mahasiswa 1,Matematika Diskrit,3,C,20202,Mahasiswa 1,2020,Genap,2020-2021,2.0
+Mahasiswa 1,Mahasiswa 1,Metodologi Penelitian dan Penulisan Ilmiah,2,A-,20212,Mahasiswa 1,2021,Genap,2021-2022,3.67
+Mahasiswa 1,Mahasiswa 1,Pemodelan dan Simulasi Jaringan,3,B,20202,Mahasiswa 1,2020,Genap,2020-2021,3.0
+Mahasiswa 1,Mahasiswa 1,Pemograman Sistem Mobile,3,B,20202,Mahasiswa 1,2020,Genap,2020-2021,3.0
+Mahasiswa 1,Mahasiswa 1,Pemrograman Berorientasi Objek,3,B-,20202,Mahasiswa 1,2020,Genap,2020-2021,2.67
+Mahasiswa 1,Mahasiswa 1,Pendidikan Pancasila dan Kewarganegaraan,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Pengolahan Citra,3,B,20212,Mahasiswa 1,2021,Genap,2021-2022,3.0
+Mahasiswa 1,Mahasiswa 1,Peretasan Etis,3,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Peretasan Etis Tingkat Lanjut,2,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Proses Sinyal Dijital,3,A,20202,Mahasiswa 1,2020,Genap,2020-2021,4.0
+Mahasiswa 1,Mahasiswa 1,Protokol dan Konsep Perutean,3,B-,20202,Mahasiswa 1,2020,Genap,2020-2021,2.67
+Mahasiswa 1,Mahasiswa 1,Rekayasa Ilmu,2,A-,20211,Mahasiswa 1,2021,Ganjil,2021-2022,3.67
+Mahasiswa 1,Mahasiswa 1,Rekayasa perangkat Lunak,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Sirkuit Elektronik,3,A,20202,Mahasiswa 1,2020,Genap,2020-2021,4.0
+Mahasiswa 1,Mahasiswa 1,Sistem Basis Data,3,C,20202,Mahasiswa 1,2020,Genap,2020-2021,2.0
+Mahasiswa 1,Mahasiswa 1,Sistem Basis Data Lanjut,3,A-,20212,Mahasiswa 1,2021,Genap,2021-2022,3.67
+Mahasiswa 1,Mahasiswa 1,Sistem Dijital,4,A,20202,Mahasiswa 1,2020,Genap,2020-2021,4.0
+Mahasiswa 1,Mahasiswa 1,Sistem Informasi Manajemen,3,B+,20202,Mahasiswa 1,2020,Genap,2020-2021,3.33
+Mahasiswa 1,Mahasiswa 1,Sistem Multimedia,3,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Sistem Operasi,3,B-,20202,Mahasiswa 1,2020,Genap,2020-2021,2.67
+Mahasiswa 1,Mahasiswa 1,Sistem Terdistribusi,3,A-,20202,Mahasiswa 1,2020,Genap,2020-2021,3.67
+Mahasiswa 1,Mahasiswa 1,Statistik,3,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 1,Mahasiswa 1,Struktur Data,3,C,20202,Mahasiswa 1,2020,Genap,2020-2021,2.0
+Mahasiswa 1,Mahasiswa 1,Tata Kelola Sistem Informasi,3,B,20202,Mahasiswa 1,2020,Genap,2020-2021,3.0
+Mahasiswa 1,Mahasiswa 1,Tugas Akhir,6,A,20222,Mahasiswa 1,2022,Genap,2022-2023,4.0
+Mahasiswa 1,Mahasiswa 1,Visi Komputer,2,A,20211,Mahasiswa 1,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Agama,2,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Algoritma dan Pemrograman,4,C,20202,Mahasiswa 2,2020,Genap,2020-2021,2.0
+Mahasiswa 2,Mahasiswa 2,Aljabar Linier,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Analisis Perancangan Sistem Informasi,2,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Arsitektur dan Organisasi Komputer,3,C,20202,Mahasiswa 2,2020,Genap,2020-2021,2.0
+Mahasiswa 2,Mahasiswa 2,Bahasa Indonesia,2,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Bahasa Inggris 1,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Bahasa Inggris 2,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,E-Business dan Pemrograman Berbasis Web,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Etika Profesi dan Hak Kekayaan Intelektual,3,A-,20202,Mahasiswa 2,2020,Genap,2020-2021,3.67
+Mahasiswa 2,Mahasiswa 2,Gudang Data dan Penambangan Data,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Interaksi Manusia dan Komputer,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Jaringan Area Luas,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Kalkulus I,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Kalkulus II,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Keamanan Teknologi Informasi,3,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Keterampilan Antarpribadi,2,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Kewirausahaan Berbasis Teknologi,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Kewirausahaan yang Efektif,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Komputasi Seluler,2,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Komunikasi Data,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Komunikasi Nirkabel,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Konsep Sistem Informasi,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,LAN dan Nirkabel,3,C,20202,Mahasiswa 2,2020,Genap,2020-2021,2.0
+Mahasiswa 2,Mahasiswa 2,Magang,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Manajemen Jaringan,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Manajemen Proyek IT,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Matematika Diskrit,3,C,20202,Mahasiswa 2,2020,Genap,2020-2021,2.0
+Mahasiswa 2,Mahasiswa 2,Metodologi Penelitian dan Penulisan Ilmiah,2,B+,20212,Mahasiswa 2,2021,Genap,2021-2022,3.33
+Mahasiswa 2,Mahasiswa 2,Pemrograman Berorientasi Objek,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Pemrograman Visual,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Pendidikan Pancasila dan Kewarganegaraan,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Pengantar Intelejensi Artifisial,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Pengantar Teknologi Informasi,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Pengolahan Citra,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Peretasan Etis,3,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Peretasan Etis Tingkat Lanjut,2,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Protokol dan Konsep Perutean,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Rekayasa Ilmu,2,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Rekayasa perangkat Lunak,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Sirkuit Elektronik,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Sistem Basis Data,3,C,20202,Mahasiswa 2,2020,Genap,2020-2021,2.0
+Mahasiswa 2,Mahasiswa 2,Sistem Basis Data Lanjut,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Sistem Informasi Manajemen,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Sistem Multimedia,3,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Sistem Operasi,3,C,20202,Mahasiswa 2,2020,Genap,2020-2021,2.0
+Mahasiswa 2,Mahasiswa 2,Sistem Terdistribusi,3,A,20202,Mahasiswa 2,2020,Genap,2020-2021,4.0
+Mahasiswa 2,Mahasiswa 2,Statistik,3,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 2,Mahasiswa 2,Statistika Deskriptif,2,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Struktur Data,3,B,20202,Mahasiswa 2,2020,Genap,2020-2021,3.0
+Mahasiswa 2,Mahasiswa 2,Tata Kelola Sistem Informasi,3,A-,20202,Mahasiswa 2,2020,Genap,2020-2021,3.67
+Mahasiswa 2,Mahasiswa 2,Tugas Akhir,6,A,20232,Mahasiswa 2,2023,Genap,2023-2024,4.0
+Mahasiswa 2,Mahasiswa 2,Visi Komputer,2,A,20211,Mahasiswa 2,2021,Ganjil,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Agama,2,A,20201,Mahasiswa 3,2020,Ganjil,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,Algoritma dan Pemrograman,4,B,20201,Mahasiswa 3,2020,Ganjil,2020-2021,3.0
+Mahasiswa 3,Mahasiswa 3,Aljabar Linier,3,A,20201,Mahasiswa 3,2020,Ganjil,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,Analisis Perancangan Sistem Informasi,2,A,20231,Mahasiswa 3,2023,Ganjil,2023-2024,4.0
+Mahasiswa 3,Mahasiswa 3,Arsitektur dan Organisasi Komputer,3,A,20212,Mahasiswa 3,2021,Genap,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Bahasa Indonesia,2,A,20221,Mahasiswa 3,2022,Ganjil,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Bahasa Inggris 1,3,B+,20201,Mahasiswa 3,2020,Ganjil,2020-2021,3.33
+Mahasiswa 3,Mahasiswa 3,Bahasa Inggris 2,3,A,20202,Mahasiswa 3,2020,Genap,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,E-Business dan Pemrograman Berbasis Web,3,A,20221,Mahasiswa 3,2022,Ganjil,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Etika Profesi dan Hak Kekayaan Intelektual,3,A,20232,Mahasiswa 3,2023,Genap,2023-2024,4.0
+Mahasiswa 3,Mahasiswa 3,Informatika Sosial,2,A,20202,Mahasiswa 3,2020,Genap,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,Interaksi Manusia dan Komputer,3,A,20231,Mahasiswa 3,2023,Ganjil,2023-2024,4.0
+Mahasiswa 3,Mahasiswa 3,Jaringan Area Luas,3,A,20222,Mahasiswa 3,2022,Genap,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Kalkulus I,3,A-,20201,Mahasiswa 3,2020,Ganjil,2020-2021,3.67
+Mahasiswa 3,Mahasiswa 3,Kalkulus II,3,A,20202,Mahasiswa 3,2020,Genap,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,Keamanan Teknologi Informasi,3,A,20231,Mahasiswa 3,2023,Ganjil,2023-2024,4.0
+Mahasiswa 3,Mahasiswa 3,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,20211,Mahasiswa 3,2021,Ganjil,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Keterampilan Antarpribadi,2,A,20211,Mahasiswa 3,2021,Ganjil,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Kewirausahaan Berbasis Teknologi,3,A,20221,Mahasiswa 3,2022,Ganjil,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Kewirausahaan yang Efektif,3,A,20212,Mahasiswa 3,2021,Genap,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Komunikasi Data,3,A,20211,Mahasiswa 3,2021,Ganjil,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Komunikasi Nirkabel,3,A,20222,Mahasiswa 3,2022,Genap,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Konsep Sistem Informasi,3,A,20202,Mahasiswa 3,2020,Genap,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,LAN dan Nirkabel,3,B,20212,Mahasiswa 3,2021,Genap,2021-2022,3.0
+Mahasiswa 3,Mahasiswa 3,Magang,3,A,20231,Mahasiswa 3,2023,Ganjil,2023-2024,4.0
+Mahasiswa 3,Mahasiswa 3,Manajemen Jaringan,3,A,20222,Mahasiswa 3,2022,Genap,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Manajemen Proyek IT,3,A,20222,Mahasiswa 3,2022,Genap,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Matematika Diskrit,3,B+,20202,Mahasiswa 3,2020,Genap,2020-2021,3.33
+Mahasiswa 3,Mahasiswa 3,Metodologi Penelitian dan Penulisan Ilmiah,2,B,20221,Mahasiswa 3,2022,Ganjil,2022-2023,3.0
+Mahasiswa 3,Mahasiswa 3,Pemodelan dan Simulasi Jaringan,3,A,20221,Mahasiswa 3,2022,Ganjil,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Pemrograman Berorientasi Objek,3,A,20212,Mahasiswa 3,2021,Genap,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Pemrograman Visual,3,B+,20202,Mahasiswa 3,2020,Genap,2020-2021,3.33
+Mahasiswa 3,Mahasiswa 3,Pendidikan Pancasila dan Kewarganegaraan,3,A-,20211,Mahasiswa 3,2021,Ganjil,2021-2022,3.67
+Mahasiswa 3,Mahasiswa 3,Pengantar Intelejensi Artifisial,3,A,20221,Mahasiswa 3,2022,Ganjil,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Pengantar Teknologi Informasi,3,B+,20201,Mahasiswa 3,2020,Ganjil,2020-2021,3.33
+Mahasiswa 3,Mahasiswa 3,Peretasan Etis,3,A,20222,Mahasiswa 3,2022,Genap,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Proses Sinyal Dijital,3,A-,20212,Mahasiswa 3,2021,Genap,2021-2022,3.67
+Mahasiswa 3,Mahasiswa 3,Protokol dan Konsep Perutean,3,B-,20221,Mahasiswa 3,2022,Ganjil,2022-2023,2.67
+Mahasiswa 3,Mahasiswa 3,Rekayasa Ilmu,2,A,20231,Mahasiswa 3,2023,Ganjil,2023-2024,4.0
+Mahasiswa 3,Mahasiswa 3,Rekayasa perangkat Lunak,3,A,20222,Mahasiswa 3,2022,Genap,2022-2023,4.0
+Mahasiswa 3,Mahasiswa 3,Sirkuit Elektronik,3,A,20201,Mahasiswa 3,2020,Ganjil,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,Sistem Basis Data,3,A-,20211,Mahasiswa 3,2021,Ganjil,2021-2022,3.67
+Mahasiswa 3,Mahasiswa 3,Sistem Basis Data Lanjut,3,A,20212,Mahasiswa 3,2021,Genap,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Sistem Dijital,4,A,20211,Mahasiswa 3,2021,Ganjil,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Sistem Multimedia,3,A-,20221,Mahasiswa 3,2022,Ganjil,2022-2023,3.67
+Mahasiswa 3,Mahasiswa 3,Sistem Operasi,3,A,20211,Mahasiswa 3,2021,Ganjil,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Sistem Terdistribusi,3,B+,20212,Mahasiswa 3,2021,Genap,2021-2022,3.33
+Mahasiswa 3,Mahasiswa 3,Statistik,3,B-,20211,Mahasiswa 3,2021,Ganjil,2021-2022,2.67
+Mahasiswa 3,Mahasiswa 3,Statistika Deskriptif,2,A,20202,Mahasiswa 3,2020,Genap,2020-2021,4.0
+Mahasiswa 3,Mahasiswa 3,Struktur Data,3,A-,20202,Mahasiswa 3,2020,Genap,2020-2021,3.67
+Mahasiswa 3,Mahasiswa 3,Tata Kelola Sistem Informasi,3,A,20212,Mahasiswa 3,2021,Genap,2021-2022,4.0
+Mahasiswa 3,Mahasiswa 3,Tugas Akhir,6,A,20232,Mahasiswa 3,2023,Genap,2023-2024,4.0
+Mahasiswa 4,Mahasiswa 4,Agama,2,A,20201,Mahasiswa 4,2020,Ganjil,2020-2021,4.0
+Mahasiswa 4,Mahasiswa 4,Algoritma dan Pemrograman,4,C+,20201,Mahasiswa 4,2020,Ganjil,2020-2021,2.33
+Mahasiswa 4,Mahasiswa 4,Aljabar Linier,3,A-,20201,Mahasiswa 4,2020,Ganjil,2020-2021,3.67
+Mahasiswa 4,Mahasiswa 4,Analisis Perancangan Sistem Informasi,2,A,20231,Mahasiswa 4,2023,Ganjil,2023-2024,4.0
+Mahasiswa 4,Mahasiswa 4,Arsitektur dan Organisasi Komputer,3,A-,20212,Mahasiswa 4,2021,Genap,2021-2022,3.67
+Mahasiswa 4,Mahasiswa 4,Bahasa Indonesia,2,A-,20221,Mahasiswa 4,2022,Ganjil,2022-2023,3.67
+Mahasiswa 4,Mahasiswa 4,Bahasa Inggris 1,3,B,20201,Mahasiswa 4,2020,Ganjil,2020-2021,3.0
+Mahasiswa 4,Mahasiswa 4,Bahasa Inggris 2,3,A,20202,Mahasiswa 4,2020,Genap,2020-2021,4.0
+Mahasiswa 4,Mahasiswa 4,E-Business dan Pemrograman Berbasis Web,3,B,20221,Mahasiswa 4,2022,Ganjil,2022-2023,3.0
+Mahasiswa 4,Mahasiswa 4,Etika Profesi dan Hak Kekayaan Intelektual,3,A,20232,Mahasiswa 4,2023,Genap,2023-2024,4.0
+Mahasiswa 4,Mahasiswa 4,Informatika Sosial,2,A-,20202,Mahasiswa 4,2020,Genap,2020-2021,3.67
+Mahasiswa 4,Mahasiswa 4,Interaksi Manusia dan Komputer,3,A,20231,Mahasiswa 4,2023,Ganjil,2023-2024,4.0
+Mahasiswa 4,Mahasiswa 4,Jaringan Area Luas,3,B-,20222,Mahasiswa 4,2022,Genap,2022-2023,2.67
+Mahasiswa 4,Mahasiswa 4,Kalkulus I,3,C+,20201,Mahasiswa 4,2020,Ganjil,2020-2021,2.33
+Mahasiswa 4,Mahasiswa 4,Kalkulus II,3,A,20202,Mahasiswa 4,2020,Genap,2020-2021,4.0
+Mahasiswa 4,Mahasiswa 4,Keamanan Teknologi Informasi,3,A-,20231,Mahasiswa 4,2023,Ganjil,2023-2024,3.67
+Mahasiswa 4,Mahasiswa 4,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A-,20211,Mahasiswa 4,2021,Ganjil,2021-2022,3.67
+Mahasiswa 4,Mahasiswa 4,Keterampilan Antarpribadi,2,B,20221,Mahasiswa 4,2022,Ganjil,2022-2023,3.0
+Mahasiswa 4,Mahasiswa 4,Kewirausahaan Berbasis Teknologi,3,A,20221,Mahasiswa 4,2022,Ganjil,2022-2023,4.0
+Mahasiswa 4,Mahasiswa 4,Kewirausahaan yang Efektif,3,A,20212,Mahasiswa 4,2021,Genap,2021-2022,4.0
+Mahasiswa 4,Mahasiswa 4,Komunikasi Data,3,B+,20211,Mahasiswa 4,2021,Ganjil,2021-2022,3.33
+Mahasiswa 4,Mahasiswa 4,Komunikasi Nirkabel,3,A,20222,Mahasiswa 4,2022,Genap,2022-2023,4.0
+Mahasiswa 4,Mahasiswa 4,Konsep Sistem Informasi,3,A-,20202,Mahasiswa 4,2020,Genap,2020-2021,3.67
+Mahasiswa 4,Mahasiswa 4,LAN dan Nirkabel,3,B-,20212,Mahasiswa 4,2021,Genap,2021-2022,2.67
+Mahasiswa 4,Mahasiswa 4,Magang,3,A,20231,Mahasiswa 4,2023,Ganjil,2023-2024,4.0
+Mahasiswa 4,Mahasiswa 4,Manajemen Jaringan,3,A,20222,Mahasiswa 4,2022,Genap,2022-2023,4.0
+Mahasiswa 4,Mahasiswa 4,Manajemen Proyek IT,3,A,20222,Mahasiswa 4,2022,Genap,2022-2023,4.0
+Mahasiswa 4,Mahasiswa 4,Matematika Diskrit,3,B-,20202,Mahasiswa 4,2020,Genap,2020-2021,2.67
+Mahasiswa 4,Mahasiswa 4,Metodologi Penelitian dan Penulisan Ilmiah,2,A-,20231,Mahasiswa 4,2023,Ganjil,2023-2024,3.67
+Mahasiswa 4,Mahasiswa 4,Pemodelan dan Simulasi Jaringan,3,A-,20231,Mahasiswa 4,2023,Ganjil,2023-2024,3.67
+Mahasiswa 4,Mahasiswa 4,Pemrograman Berorientasi Objek,3,B-,20212,Mahasiswa 4,2021,Genap,2021-2022,2.67
+Mahasiswa 4,Mahasiswa 4,Pemrograman Visual,3,C,20202,Mahasiswa 4,2020,Genap,2020-2021,2.0
+Mahasiswa 4,Mahasiswa 4,Pendidikan Pancasila dan Kewarganegaraan,3,A-,20211,Mahasiswa 4,2021,Ganjil,2021-2022,3.67
+Mahasiswa 4,Mahasiswa 4,Pengantar Intelejensi Artifisial,3,B-,20221,Mahasiswa 4,2022,Ganjil,2022-2023,2.67
+Mahasiswa 4,Mahasiswa 4,Pengantar Teknologi Informasi,3,B,20201,Mahasiswa 4,2020,Ganjil,2020-2021,3.0
+Mahasiswa 4,Mahasiswa 4,Peretasan Etis,3,A-,20232,Mahasiswa 4,2023,Genap,2023-2024,3.67
+Mahasiswa 4,Mahasiswa 4,Proses Sinyal Dijital,3,B+,20212,Mahasiswa 4,2021,Genap,2021-2022,3.33
+Mahasiswa 4,Mahasiswa 4,Protokol dan Konsep Perutean,3,B-,20221,Mahasiswa 4,2022,Ganjil,2022-2023,2.67
+Mahasiswa 4,Mahasiswa 4,Rekayasa Ilmu,2,A-,20231,Mahasiswa 4,2023,Ganjil,2023-2024,3.67
+Mahasiswa 4,Mahasiswa 4,Rekayasa perangkat Lunak,3,B+,20222,Mahasiswa 4,2022,Genap,2022-2023,3.33
+Mahasiswa 4,Mahasiswa 4,Sirkuit Elektronik,3,B+,20201,Mahasiswa 4,2020,Ganjil,2020-2021,3.33
+Mahasiswa 4,Mahasiswa 4,Sistem Basis Data,3,C+,20211,Mahasiswa 4,2021,Ganjil,2021-2022,2.33
+Mahasiswa 4,Mahasiswa 4,Sistem Basis Data Lanjut,3,A,20212,Mahasiswa 4,2021,Genap,2021-2022,4.0
+Mahasiswa 4,Mahasiswa 4,Sistem Dijital,4,C,20211,Mahasiswa 4,2021,Ganjil,2021-2022,2.0
+Mahasiswa 4,Mahasiswa 4,Sistem Multimedia,3,B-,20221,Mahasiswa 4,2022,Ganjil,2022-2023,2.67
+Mahasiswa 4,Mahasiswa 4,Sistem Operasi,3,A-,20211,Mahasiswa 4,2021,Ganjil,2021-2022,3.67
+Mahasiswa 4,Mahasiswa 4,Sistem Terdistribusi,3,A,20212,Mahasiswa 4,2021,Genap,2021-2022,4.0
+Mahasiswa 4,Mahasiswa 4,Statistik,3,C,20211,Mahasiswa 4,2021,Ganjil,2021-2022,2.0
+Mahasiswa 4,Mahasiswa 4,Statistika Deskriptif,2,B+,20202,Mahasiswa 4,2020,Genap,2020-2021,3.33
+Mahasiswa 4,Mahasiswa 4,Struktur Data,3,C,20202,Mahasiswa 4,2020,Genap,2020-2021,2.0
+Mahasiswa 4,Mahasiswa 4,Tugas Akhir,6,A,20232,Mahasiswa 4,2023,Genap,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Agama,2,A-,20201,Mahasiswa 5,2020,Ganjil,2020-2021,3.67
+Mahasiswa 5,Mahasiswa 5,Algoritma dan Pemrograman,4,B-,20201,Mahasiswa 5,2020,Ganjil,2020-2021,2.67
+Mahasiswa 5,Mahasiswa 5,Aljabar Linier,3,A-,20201,Mahasiswa 5,2020,Ganjil,2020-2021,3.67
+Mahasiswa 5,Mahasiswa 5,Analisis Perancangan Sistem Informasi,2,A,20231,Mahasiswa 5,2023,Ganjil,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Arsitektur dan Organisasi Komputer,3,A-,20212,Mahasiswa 5,2021,Genap,2021-2022,3.67
+Mahasiswa 5,Mahasiswa 5,Bahasa Indonesia,2,A,20221,Mahasiswa 5,2022,Ganjil,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Bahasa Inggris 1,3,B-,20201,Mahasiswa 5,2020,Ganjil,2020-2021,2.67
+Mahasiswa 5,Mahasiswa 5,Bahasa Inggris 2,3,A,20202,Mahasiswa 5,2020,Genap,2020-2021,4.0
+Mahasiswa 5,Mahasiswa 5,E-Business dan Pemrograman Berbasis Web,3,A-,20221,Mahasiswa 5,2022,Ganjil,2022-2023,3.67
+Mahasiswa 5,Mahasiswa 5,Etika Profesi dan Hak Kekayaan Intelektual,3,A,20232,Mahasiswa 5,2023,Genap,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Informatika Sosial,2,A-,20202,Mahasiswa 5,2020,Genap,2020-2021,3.67
+Mahasiswa 5,Mahasiswa 5,Interaksi Manusia dan Komputer,3,A,20231,Mahasiswa 5,2023,Ganjil,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Jaringan Area Luas,3,A,20222,Mahasiswa 5,2022,Genap,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Kalkulus I,3,C+,20201,Mahasiswa 5,2020,Ganjil,2020-2021,2.33
+Mahasiswa 5,Mahasiswa 5,Kalkulus II,3,A,20202,Mahasiswa 5,2020,Genap,2020-2021,4.0
+Mahasiswa 5,Mahasiswa 5,Keamanan Teknologi Informasi,3,A,20231,Mahasiswa 5,2023,Ganjil,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,20211,Mahasiswa 5,2021,Ganjil,2021-2022,4.0
+Mahasiswa 5,Mahasiswa 5,Keterampilan Antarpribadi,2,A-,20221,Mahasiswa 5,2022,Ganjil,2022-2023,3.67
+Mahasiswa 5,Mahasiswa 5,Kewirausahaan Berbasis Teknologi,3,A-,20221,Mahasiswa 5,2022,Ganjil,2022-2023,3.67
+Mahasiswa 5,Mahasiswa 5,Kewirausahaan yang Efektif,3,A,20212,Mahasiswa 5,2021,Genap,2021-2022,4.0
+Mahasiswa 5,Mahasiswa 5,Komputasi Seluler,2,A,20231,Mahasiswa 5,2023,Ganjil,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Komunikasi Data,3,B+,20211,Mahasiswa 5,2021,Ganjil,2021-2022,3.33
+Mahasiswa 5,Mahasiswa 5,Komunikasi Nirkabel,3,A,20222,Mahasiswa 5,2022,Genap,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Konsep Sistem Informasi,3,A,20202,Mahasiswa 5,2020,Genap,2020-2021,4.0
+Mahasiswa 5,Mahasiswa 5,LAN dan Nirkabel,3,B,20212,Mahasiswa 5,2021,Genap,2021-2022,3.0
+Mahasiswa 5,Mahasiswa 5,Magang,3,A,20231,Mahasiswa 5,2023,Ganjil,2023-2024,4.0
+Mahasiswa 5,Mahasiswa 5,Manajemen Jaringan,3,A,20222,Mahasiswa 5,2022,Genap,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Manajemen Proyek IT,3,A,20222,Mahasiswa 5,2022,Genap,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Matematika Diskrit,3,B-,20202,Mahasiswa 5,2020,Genap,2020-2021,2.67
+Mahasiswa 5,Mahasiswa 5,Metodologi Penelitian dan Penulisan Ilmiah,2,B-,20221,Mahasiswa 5,2022,Ganjil,2022-2023,2.67
+Mahasiswa 5,Mahasiswa 5,Pemodelan dan Simulasi Jaringan,3,B,20221,Mahasiswa 5,2022,Ganjil,2022-2023,3.0
+Mahasiswa 5,Mahasiswa 5,Pemrograman Berorientasi Objek,3,B-,20212,Mahasiswa 5,2021,Genap,2021-2022,2.67
+Mahasiswa 5,Mahasiswa 5,Pemrograman Visual,3,C+,20202,Mahasiswa 5,2020,Genap,2020-2021,2.33
+Mahasiswa 5,Mahasiswa 5,Pendidikan Pancasila dan Kewarganegaraan,3,A-,20211,Mahasiswa 5,2021,Ganjil,2021-2022,3.67
+Mahasiswa 5,Mahasiswa 5,Pengantar Intelejensi Artifisial,3,B+,20221,Mahasiswa 5,2022,Ganjil,2022-2023,3.33
+Mahasiswa 5,Mahasiswa 5,Pengantar Teknologi Informasi,3,B,20201,Mahasiswa 5,2020,Ganjil,2020-2021,3.0
+Mahasiswa 5,Mahasiswa 5,Peretasan Etis,3,A,20222,Mahasiswa 5,2022,Genap,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Proses Sinyal Dijital,3,A-,20212,Mahasiswa 5,2021,Genap,2021-2022,3.67
+Mahasiswa 5,Mahasiswa 5,Protokol dan Konsep Perutean,3,C+,20221,Mahasiswa 5,2022,Ganjil,2022-2023,2.33
+Mahasiswa 5,Mahasiswa 5,Rekayasa perangkat Lunak,3,A,20222,Mahasiswa 5,2022,Genap,2022-2023,4.0
+Mahasiswa 5,Mahasiswa 5,Sirkuit Elektronik,3,B+,20201,Mahasiswa 5,2020,Ganjil,2020-2021,3.33
+Mahasiswa 5,Mahasiswa 5,Sistem Basis Data,3,B+,20211,Mahasiswa 5,2021,Ganjil,2021-2022,3.33
+Mahasiswa 5,Mahasiswa 5,Sistem Basis Data Lanjut,3,A,20212,Mahasiswa 5,2021,Genap,2021-2022,4.0
+Mahasiswa 5,Mahasiswa 5,Sistem Dijital,4,B-,20211,Mahasiswa 5,2021,Ganjil,2021-2022,2.67
+Mahasiswa 5,Mahasiswa 5,Sistem Multimedia,3,B,20221,Mahasiswa 5,2022,Ganjil,2022-2023,3.0
+Mahasiswa 5,Mahasiswa 5,Sistem Operasi,3,A-,20211,Mahasiswa 5,2021,Ganjil,2021-2022,3.67
+Mahasiswa 5,Mahasiswa 5,Sistem Terdistribusi,3,A-,20212,Mahasiswa 5,2021,Genap,2021-2022,3.67
+Mahasiswa 5,Mahasiswa 5,Statistik,3,C,20211,Mahasiswa 5,2021,Ganjil,2021-2022,2.0
+Mahasiswa 5,Mahasiswa 5,Statistika Deskriptif,2,A-,20202,Mahasiswa 5,2020,Genap,2020-2021,3.67
+Mahasiswa 5,Mahasiswa 5,Struktur Data,3,C+,20202,Mahasiswa 5,2020,Genap,2020-2021,2.33
+Mahasiswa 5,Mahasiswa 5,Tugas Akhir,6,A,20232,Mahasiswa 5,2023,Genap,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Agama,2,A,20201,Mahasiswa 6,2020,Ganjil,2020-2021,4.0
+Mahasiswa 6,Mahasiswa 6,Algoritma dan Pemrograman,4,B,20201,Mahasiswa 6,2020,Ganjil,2020-2021,3.0
+Mahasiswa 6,Mahasiswa 6,Aljabar Linier,3,A,20201,Mahasiswa 6,2020,Ganjil,2020-2021,4.0
+Mahasiswa 6,Mahasiswa 6,Analisis Perancangan Sistem Informasi,2,A,20231,Mahasiswa 6,2023,Ganjil,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Arsitektur dan Organisasi Komputer,3,A-,20212,Mahasiswa 6,2021,Genap,2021-2022,3.67
+Mahasiswa 6,Mahasiswa 6,Bahasa Indonesia,2,B+,20221,Mahasiswa 6,2022,Ganjil,2022-2023,3.33
+Mahasiswa 6,Mahasiswa 6,Bahasa Inggris 1,3,A-,20201,Mahasiswa 6,2020,Ganjil,2020-2021,3.67
+Mahasiswa 6,Mahasiswa 6,Bahasa Inggris 2,3,A,20202,Mahasiswa 6,2020,Genap,2020-2021,4.0
+Mahasiswa 6,Mahasiswa 6,E-Business dan Pemrograman Berbasis Web,3,A,20221,Mahasiswa 6,2022,Ganjil,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Etika Profesi dan Hak Kekayaan Intelektual,3,A,20232,Mahasiswa 6,2023,Genap,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Informatika Sosial,2,A,20202,Mahasiswa 6,2020,Genap,2020-2021,4.0
+Mahasiswa 6,Mahasiswa 6,Interaksi Manusia dan Komputer,3,A,20231,Mahasiswa 6,2023,Ganjil,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Jaringan Area Luas,3,A,20222,Mahasiswa 6,2022,Genap,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Kalkulus I,3,B,20201,Mahasiswa 6,2020,Ganjil,2020-2021,3.0
+Mahasiswa 6,Mahasiswa 6,Kalkulus II,3,A,20202,Mahasiswa 6,2020,Genap,2020-2021,4.0
+Mahasiswa 6,Mahasiswa 6,Keamanan Teknologi Informasi,3,A,20231,Mahasiswa 6,2023,Ganjil,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,20211,Mahasiswa 6,2021,Ganjil,2021-2022,4.0
+Mahasiswa 6,Mahasiswa 6,Keterampilan Antarpribadi,2,B+,20221,Mahasiswa 6,2022,Ganjil,2022-2023,3.33
+Mahasiswa 6,Mahasiswa 6,Kewirausahaan Berbasis Teknologi,3,A,20221,Mahasiswa 6,2022,Ganjil,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Kewirausahaan yang Efektif,3,A,20212,Mahasiswa 6,2021,Genap,2021-2022,4.0
+Mahasiswa 6,Mahasiswa 6,Komunikasi Data,3,A,20211,Mahasiswa 6,2021,Ganjil,2021-2022,4.0
+Mahasiswa 6,Mahasiswa 6,Komunikasi Nirkabel,3,A,20222,Mahasiswa 6,2022,Genap,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Konsep Sistem Informasi,3,A,20202,Mahasiswa 6,2020,Genap,2020-2021,4.0
+Mahasiswa 6,Mahasiswa 6,LAN dan Nirkabel,3,B,20212,Mahasiswa 6,2021,Genap,2021-2022,3.0
+Mahasiswa 6,Mahasiswa 6,Magang,3,A,20231,Mahasiswa 6,2023,Ganjil,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Manajemen Jaringan,3,A,20222,Mahasiswa 6,2022,Genap,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Manajemen Proyek IT,3,A,20222,Mahasiswa 6,2022,Genap,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Matematika Diskrit,3,B,20202,Mahasiswa 6,2020,Genap,2020-2021,3.0
+Mahasiswa 6,Mahasiswa 6,Metodologi Penelitian dan Penulisan Ilmiah,2,B+,20231,Mahasiswa 6,2023,Ganjil,2023-2024,3.33
+Mahasiswa 6,Mahasiswa 6,Pemodelan dan Simulasi Jaringan,3,A,20221,Mahasiswa 6,2022,Ganjil,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Pemrograman Berorientasi Objek,3,B,20212,Mahasiswa 6,2021,Genap,2021-2022,3.0
+Mahasiswa 6,Mahasiswa 6,Pemrograman Visual,3,B-,20202,Mahasiswa 6,2020,Genap,2020-2021,2.67
+Mahasiswa 6,Mahasiswa 6,Pendidikan Pancasila dan Kewarganegaraan,3,A,20211,Mahasiswa 6,2021,Ganjil,2021-2022,4.0
+Mahasiswa 6,Mahasiswa 6,Pengantar Intelejensi Artifisial,3,A,20221,Mahasiswa 6,2022,Ganjil,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Pengantar Teknologi Informasi,3,A-,20201,Mahasiswa 6,2020,Ganjil,2020-2021,3.67
+Mahasiswa 6,Mahasiswa 6,Peretasan Etis,3,A,20222,Mahasiswa 6,2022,Genap,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Proses Sinyal Dijital,3,B,20212,Mahasiswa 6,2021,Genap,2021-2022,3.0
+Mahasiswa 6,Mahasiswa 6,Protokol dan Konsep Perutean,3,B-,20221,Mahasiswa 6,2022,Ganjil,2022-2023,2.67
+Mahasiswa 6,Mahasiswa 6,Rekayasa Ilmu,2,A,20231,Mahasiswa 6,2023,Ganjil,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Rekayasa perangkat Lunak,3,A,20222,Mahasiswa 6,2022,Genap,2022-2023,4.0
+Mahasiswa 6,Mahasiswa 6,Sirkuit Elektronik,3,A-,20201,Mahasiswa 6,2020,Ganjil,2020-2021,3.67
+Mahasiswa 6,Mahasiswa 6,Sistem Basis Data,3,B-,20211,Mahasiswa 6,2021,Ganjil,2021-2022,2.67
+Mahasiswa 6,Mahasiswa 6,Sistem Basis Data Lanjut,3,B,20212,Mahasiswa 6,2021,Genap,2021-2022,3.0
+Mahasiswa 6,Mahasiswa 6,Sistem Dijital,4,B+,20211,Mahasiswa 6,2021,Ganjil,2021-2022,3.33
+Mahasiswa 6,Mahasiswa 6,Sistem Multimedia,3,B+,20221,Mahasiswa 6,2022,Ganjil,2022-2023,3.33
+Mahasiswa 6,Mahasiswa 6,Sistem Operasi,3,A,20211,Mahasiswa 6,2021,Ganjil,2021-2022,4.0
+Mahasiswa 6,Mahasiswa 6,Sistem Terdistribusi,3,A-,20212,Mahasiswa 6,2021,Genap,2021-2022,3.67
+Mahasiswa 6,Mahasiswa 6,Statistik,3,A,20231,Mahasiswa 6,2023,Ganjil,2023-2024,4.0
+Mahasiswa 6,Mahasiswa 6,Statistika Deskriptif,2,A-,20202,Mahasiswa 6,2020,Genap,2020-2021,3.67
+Mahasiswa 6,Mahasiswa 6,Struktur Data,3,B-,20202,Mahasiswa 6,2020,Genap,2020-2021,2.67
+Mahasiswa 6,Mahasiswa 6,Tugas Akhir,6,A,20232,Mahasiswa 6,2023,Genap,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Agama,2,A,20201,Mahasiswa 7,2020,Ganjil,2020-2021,4.0
+Mahasiswa 7,Mahasiswa 7,Algoritma dan Pemrograman,4,C,20201,Mahasiswa 7,2020,Ganjil,2020-2021,2.0
+Mahasiswa 7,Mahasiswa 7,Aljabar Linier,3,A,20201,Mahasiswa 7,2020,Ganjil,2020-2021,4.0
+Mahasiswa 7,Mahasiswa 7,Analisis Perancangan Sistem Informasi,2,A,20231,Mahasiswa 7,2023,Ganjil,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Arsitektur dan Organisasi Komputer,3,A-,20212,Mahasiswa 7,2021,Genap,2021-2022,3.67
+Mahasiswa 7,Mahasiswa 7,Bahasa Indonesia,2,A-,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.67
+Mahasiswa 7,Mahasiswa 7,Bahasa Inggris 1,3,B,20201,Mahasiswa 7,2020,Ganjil,2020-2021,3.0
+Mahasiswa 7,Mahasiswa 7,Bahasa Inggris 2,3,B+,20202,Mahasiswa 7,2020,Genap,2020-2021,3.33
+Mahasiswa 7,Mahasiswa 7,E-Business dan Pemrograman Berbasis Web,3,A,20221,Mahasiswa 7,2022,Ganjil,2022-2023,4.0
+Mahasiswa 7,Mahasiswa 7,Etika Profesi dan Hak Kekayaan Intelektual,3,A,20232,Mahasiswa 7,2023,Genap,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Informatika Sosial,2,A,20202,Mahasiswa 7,2020,Genap,2020-2021,4.0
+Mahasiswa 7,Mahasiswa 7,Interaksi Manusia dan Komputer,3,A,20231,Mahasiswa 7,2023,Ganjil,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Jaringan Area Luas,3,B-,20222,Mahasiswa 7,2022,Genap,2022-2023,2.67
+Mahasiswa 7,Mahasiswa 7,Kalkulus I,3,C+,20201,Mahasiswa 7,2020,Ganjil,2020-2021,2.33
+Mahasiswa 7,Mahasiswa 7,Kalkulus II,3,A,20202,Mahasiswa 7,2020,Genap,2020-2021,4.0
+Mahasiswa 7,Mahasiswa 7,Keamanan Teknologi Informasi,3,A-,20231,Mahasiswa 7,2023,Ganjil,2023-2024,3.67
+Mahasiswa 7,Mahasiswa 7,Kepemimpinan dan Manajemen untuk Insinyur IT,3,A,20211,Mahasiswa 7,2021,Ganjil,2021-2022,4.0
+Mahasiswa 7,Mahasiswa 7,Keterampilan Antarpribadi,2,A-,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.67
+Mahasiswa 7,Mahasiswa 7,Kewirausahaan Berbasis Teknologi,3,A-,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.67
+Mahasiswa 7,Mahasiswa 7,Kewirausahaan yang Efektif,3,A,20212,Mahasiswa 7,2021,Genap,2021-2022,4.0
+Mahasiswa 7,Mahasiswa 7,Komunikasi Data,3,A-,20211,Mahasiswa 7,2021,Ganjil,2021-2022,3.67
+Mahasiswa 7,Mahasiswa 7,Komunikasi Nirkabel,3,A,20222,Mahasiswa 7,2022,Genap,2022-2023,4.0
+Mahasiswa 7,Mahasiswa 7,Konsep Sistem Informasi,3,A,20202,Mahasiswa 7,2020,Genap,2020-2021,4.0
+Mahasiswa 7,Mahasiswa 7,LAN dan Nirkabel,3,B-,20212,Mahasiswa 7,2021,Genap,2021-2022,2.67
+Mahasiswa 7,Mahasiswa 7,Magang,3,A,20231,Mahasiswa 7,2023,Ganjil,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Manajemen Jaringan,3,A,20222,Mahasiswa 7,2022,Genap,2022-2023,4.0
+Mahasiswa 7,Mahasiswa 7,Manajemen Proyek IT,3,A,20222,Mahasiswa 7,2022,Genap,2022-2023,4.0
+Mahasiswa 7,Mahasiswa 7,Matematika Diskrit,3,B,20202,Mahasiswa 7,2020,Genap,2020-2021,3.0
+Mahasiswa 7,Mahasiswa 7,Metodologi Penelitian dan Penulisan Ilmiah,2,B,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.0
+Mahasiswa 7,Mahasiswa 7,Pemodelan dan Simulasi Jaringan,3,A-,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.67
+Mahasiswa 7,Mahasiswa 7,Pemrograman Berorientasi Objek,3,A,20212,Mahasiswa 7,2021,Genap,2021-2022,4.0
+Mahasiswa 7,Mahasiswa 7,Pemrograman Visual,3,C,20202,Mahasiswa 7,2020,Genap,2020-2021,2.0
+Mahasiswa 7,Mahasiswa 7,Pendidikan Pancasila dan Kewarganegaraan,3,A-,20211,Mahasiswa 7,2021,Ganjil,2021-2022,3.67
+Mahasiswa 7,Mahasiswa 7,Pengantar Intelejensi Artifisial,3,A-,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.67
+Mahasiswa 7,Mahasiswa 7,Pengantar Teknologi Informasi,3,B,20201,Mahasiswa 7,2020,Ganjil,2020-2021,3.0
+Mahasiswa 7,Mahasiswa 7,Peretasan Etis,3,A,20232,Mahasiswa 7,2023,Genap,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Proses Sinyal Dijital,3,B,20212,Mahasiswa 7,2021,Genap,2021-2022,3.0
+Mahasiswa 7,Mahasiswa 7,Protokol dan Konsep Perutean,3,B-,20221,Mahasiswa 7,2022,Ganjil,2022-2023,2.67
+Mahasiswa 7,Mahasiswa 7,Rekayasa Ilmu,2,A,20231,Mahasiswa 7,2023,Ganjil,2023-2024,4.0
+Mahasiswa 7,Mahasiswa 7,Rekayasa perangkat Lunak,3,A,20222,Mahasiswa 7,2022,Genap,2022-2023,4.0
+Mahasiswa 7,Mahasiswa 7,Sirkuit Elektronik,3,B+,20201,Mahasiswa 7,2020,Ganjil,2020-2021,3.33
+Mahasiswa 7,Mahasiswa 7,Sistem Basis Data,3,B+,20211,Mahasiswa 7,2021,Ganjil,2021-2022,3.33
+Mahasiswa 7,Mahasiswa 7,Sistem Basis Data Lanjut,3,A,20212,Mahasiswa 7,2021,Genap,2021-2022,4.0
+Mahasiswa 7,Mahasiswa 7,Sistem Dijital,4,B,20211,Mahasiswa 7,2021,Ganjil,2021-2022,3.0
+Mahasiswa 7,Mahasiswa 7,Sistem Multimedia,3,B,20221,Mahasiswa 7,2022,Ganjil,2022-2023,3.0
+Mahasiswa 7,Mahasiswa 7,Sistem Operasi,3,A-,20211,Mahasiswa 7,2021,Ganjil,2021-2022,3.67
+Mahasiswa 7,Mahasiswa 7,Sistem Terdistribusi,3,A-,20212,Mahasiswa 7,2021,Genap,2021-2022,3.67
+Mahasiswa 7,Mahasiswa 7,Statistik,3,C,20211,Mahasiswa 7,2021,Ganjil,2021-2022,2.0
+Mahasiswa 7,Mahasiswa 7,Statistika Deskriptif,2,A-,20202,Mahasiswa 7,2020,Genap,2020-2021,3.67
+Mahasiswa 7,Mahasiswa 7,Struktur Data,3,C,20202,Mahasiswa 7,2020,Genap,2020-2021,2.0
+Mahasiswa 7,Mahasiswa 7,Tugas Akhir,6,A,20232,Mahasiswa 7,2023,Genap,2023-2024,4.0
